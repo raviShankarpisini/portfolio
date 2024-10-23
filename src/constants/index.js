@@ -16,7 +16,7 @@ import project15 from "../assets/projects/project-15.webp";
 import project16 from "../assets/projects/project-16.webp";
 import project17 from "../assets/projects/project-17.webp";
 
-export const HERO_CONTENT = `I am a passionate React developer with 3 years of experience, specializing in building robust and scalable web applications. Over the years, I've honed my skills in front-end technologies like React , as well as working with back-end technologies such as Node.js, MySQL, PostgreSQL, and MongoDB. My goal is to leverage my expertise to create innovative solutions that drive business growth and deliver exceptional user experiences.`;
+export const HERO_CONTENT = `I am a passionate React developer with 3 years of experience, specializing in building robust and scalable web applications. Over the years, I've honed my skills in front-end technologies like React , as well as working with back-end technologies such as Node.js,Express.js, Sqlite, PostgreSQL, and MongoDB. My goal is to leverage my expertise to create innovative solutions that drive business growth and deliver exceptional user experiences.`;
 
 export const EXPERIENCES = [
 	{
@@ -70,8 +70,8 @@ export const PROJECTS = [
 	{
 		title: "shopping",
 		image: project1,
-    // url: "https://shopping-app-ravi-shankar.vercel.app/login",
-    url:"https://ravishankarnxttrendz.netlify.app/"
+		// url: "https://shopping-app-ravi-shankar.vercel.app/login",
+		url: "https://ravishankarnxttrendz.netlify.app/",
 	},
 	{
 		title: "nxt watch",
