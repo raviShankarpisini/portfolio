@@ -29,7 +29,7 @@ const Contact = () => {
 					transition={{ duration: 1 }}
 					className="my-4"
 				>
-					<a href="tel:917075933318">{CONTACT.phoneNo}</a>
+					<a href="tel:917337473176">{CONTACT.phoneNo}</a>
 				</motion.p>
 
 				<a
